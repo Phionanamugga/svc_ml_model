@@ -32,7 +32,7 @@ The MNIST dataset used in this project is loaded from a CSV file hosted online. 
 ## Installation & Setup
 
 1. Clone this repository:
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Phionanamugga/svc_ml_model 
 cd your-repo 
 
 2. Install required dependencies: 
